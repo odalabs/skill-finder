@@ -18,7 +18,7 @@ Claude Code skill, который ищет другие Claude Code skills на 
 ## Установка
 
 ```bash
-git clone https://github.com/abadonfh/skill-finder ~/.claude/skills/skill-finder
+git clone https://github.com/odalabs/skill-finder ~/.claude/skills/skill-finder
 ```
 
 Перезапусти Claude Code — скил подхватится автоматически (увидишь в available-skills как `skill-finder`).
